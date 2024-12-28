@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+app2.py
+app.log
+jd.txt
+
